@@ -145,6 +145,12 @@ Port  State      Service Name         Reason               Common Platform Enume
 80    open       http                 syn-ack              apache httpd
 --------------------------------------------------------------------------------------------------------------------------------------------
 ```
+
+## Disclaimer
+FenrirSight is developed for educational and learning purposes only. It is intended to help users understand network scanning principles and how tools like Nmap function.
+
+Important: You are solely responsible for your actions when using this script. Scanning any target without explicit, legal permission from the owner is illegal and unethical. The developers and contributors of FenrirSight are not responsible for any illegal use or misuse of this software. Always ensure you have the necessary authorisations before conducting any scans on networks or systems you do not own or have explicit permission to test.
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to:
 
