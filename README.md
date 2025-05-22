@@ -4,17 +4,17 @@ FenrirSight: A versatile and user-friendly Python port scanner. Leveraging `geoi
 ## Table of Contents
 * [Features](##Features)
 
-* Prerequisites
+* [Prerequisites](##Prerequisites)
 
-* Installation
+* [Installation](##Installation)
 
-* Usage
+* [Usage](##Usage)
 
-* Output Explanation
+* [Output Explanation](##Output Explanation)
 
-* Contributing
+* [Contributing](##Contributing)
 
-* Licence
+* [Licence](##Licence)
 
 ## Features
 FenrirSight provides a robust and interactive command-line interface for network port scanning, offering the following capabilities:
